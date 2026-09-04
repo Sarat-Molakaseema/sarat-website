@@ -1,2 +1,3 @@
-// Add future interactive features here
-console.log("Sarat's personal website loaded.");
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("sarat.molakaseema.com loaded");
+});
